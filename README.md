@@ -1,4 +1,4 @@
-<!-- GETTING STARTED -->
+
 ## Ejercicio Trainee Onready
 
 Imaginemos una concesionaria de autos y motos.
@@ -19,20 +19,15 @@ Peugeot 206
 Yamaha YBR
 Honda Titan
 La solución debe cumplir con los siguientes requisitos:
-●
-●
-●
-●
-●
-●
-●
-Estar programada en Java o Javascript según tu lenguaje de preferencia.
-Subir la solución a un repositorio Git público para que podamos descargar la
+
+-Estar programada en Java o Javascript según tu lenguaje de preferencia.
+-Subir la solución a un repositorio Git público para que podamos descargar la
 solución directamente.
-Diseñar una solución ​ orientada a objetos y subir al repositorio un diagrama de
+-Diseñar una solución orientada a objetos y subir al repositorio un diagrama de
 clases junto con el código.
-La salida es por consola y ​ exactamente como se requiere​ .
-NO​ usar librerías de terceros.
-Cargar la lista de autos en un único método. No hay ingreso por pantalla de ningún
+-La salida es por consola y exactamente como se requiere.
+-NO usar librerías de terceros.
+-Cargar la lista de autos en un único método. No hay ingreso por pantalla de ningún
 tipo.
-El algoritmo usado
+-El algoritmo usado para la impresión no tiene que depender de la cantidad, modelo o
+tipo de vehículo.
